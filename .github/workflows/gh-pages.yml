@@ -7,8 +7,6 @@ name: Build and publish
 on:
   push:
     branches: [main]
-  pull_request:
-    branches: [main]
   workflow_dispatch:
 
 jobs:
@@ -26,5 +24,5 @@ jobs:
         uses: chabad360/hugo-gh-pages@v2
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
-          branch: master
+          branch: main
           repo: ragonneau/ragonneau.github.io
