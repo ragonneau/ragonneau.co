@@ -1,0 +1,70 @@
+# config/_default/config.yml
+# Configuration file for Hugo
+# See https://gohugo.io/getting-started/configuration/ for details
+
+# Root domain name of the site
+baseURL: https://ragonneau.github.io/
+
+# Site title
+title: Tom M. Ragonneau
+
+# Theme used on the site
+theme: eureka
+
+# Number of content per page
+paginate: 10
+
+# Site copyright statement will appear at the bottom of the page
+copyright: >
+  &copy; 2021&ndash;{year} <a href="https://ragonneau.github.io/">Tom M. Ragonneau</a>
+
+# Whether to use git information
+enableGitInfo: false
+
+# Whether to use emoji
+enableEmoji: true
+
+# Summary length
+summaryLength: 75
+
+# Language code of the default language
+defaultContentLanguage: en
+
+# Whether to include Chinese, Japanese, and Korean content
+hasCJKLanguage: false
+
+# Whether the default language is under the sub-link
+defaultContentLanguageInSubdir: true
+
+# Google Analytics code
+googleAnalytics:
+
+markup:
+  # Table of contents rendering method
+  tableOfContents:
+    # Start title level of the table of contents
+    startLevel: 2
+    # End title level of the table of contents
+    endLevel: 6
+    # Whether to generate an ordered list
+    ordered: false
+  # Settings for highlight.js to render code highlighting
+  highlight:
+    codeFences: false
+    noClasses: false
+  # Settings for Goldmark to render Markdown
+  goldmark:
+    renderer:
+      unsafe: true
+
+# All taxonomies in the website
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+  author: authors
+
+# Build settings
+build:
+  # Use cache files for rendering
+  useResourceCacheWhen: always

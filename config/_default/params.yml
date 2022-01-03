@@ -1,0 +1,59 @@
+# config/_default/params.yml
+# Configuration file for Hugo
+# See https://gohugo.io/getting-started/configuration/ for details
+
+# Types in the list will be displayed on the homepage
+mainSections: [posts]
+
+# Description of the site
+description: Personal website of Tom M. Ragonneau
+
+# Edit url of the repository corresponding to the current directory
+repoEditURL: https://github.com/ragonneau/ragonneau.com/blob/main/
+
+# Set the separator of the page title
+titleSeparator: "-"
+
+# Format of the dates displayed on the website
+# See https://gohugo.io/functions/format/#gos-layout-string
+dateFormat: 2006-01-02
+
+# Default color scheme of the website (auto, light, and dark)
+colorScheme: auto
+
+# Site type
+siteType: Person
+
+# Site icon
+icon:
+
+# Publisher name
+publisherName: Tom M. Ragonneau
+
+# Publisher icon (site icon when empty)
+publisherLogo:
+
+# Use highlight.js to render code highlighting
+highlight:
+  handler: highlightjs
+  highlightjs:
+    # See https://github.com/highlightjs/cdn-release/tree/master/build/languages
+    languages:
+    # See https://github.com/highlightjs/cdn-release/tree/master/build/styles
+    style: solarized-light
+
+# use KaTeX to render LaTeX mathematical formulas
+math:
+  handler: katex
+  # See https://katex.org/docs/options.html
+  katex:
+
+# Support comment systems (Disqus, Utterances, Valine, and Commento)
+comment:
+  handler:
+
+# Support Mermaid to render diagrams
+diagram:
+  handler: mermaid
+  # See https://mermaid-js.github.io/mermaid/#/Setup
+  mermaid:

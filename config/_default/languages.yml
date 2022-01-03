@@ -1,0 +1,10 @@
+# config/_default/languages.yml
+# Configuration file for Hugo
+# See https://gohugo.io/getting-started/configuration/ for details
+
+# English version of the website
+en:
+  # See https://datatracker.ietf.org/doc/html/rfc5646
+  languageCode: en
+  languageName: English
+  contentDir: content/en

@@ -1,0 +1,30 @@
+# .github/workflows/gh-pages.yml
+# GitHub Actions configuration file for publishing hugo site
+# See https://github.com/chabad360/hugo-gh-pages for details
+
+name: Build and publish
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  run:
+    name: Build and publish to GitHub Pages
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive
+
+      - name: Publish site
+        uses: chabad360/hugo-gh-pages@v2
+        with:
+          githubToken: ${{ secrets.PERSONAL_TOKEN }}
+          branch: master
+          repo: ragonneau.github.io
