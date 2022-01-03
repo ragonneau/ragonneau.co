@@ -27,4 +27,4 @@ jobs:
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
           branch: master
-          repo: ragonneau.github.io
+          repo: ragonneau/ragonneau.github.io
