@@ -20,7 +20,7 @@ hugo server
 The static website can be build with:
 
 ```bash
-hugo
+hugo --gc --minify
 ```
 
 ## License

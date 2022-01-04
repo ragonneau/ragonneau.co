@@ -53,7 +53,7 @@ math:
 comment:
   handler: utterances
   utterances:
-    repo: https://github.com/ragonneau/ragonneau.github.io
+    repo: ragonneau/ragonneau.github.io
     issue-term: pathname
     theme: eureka
 
