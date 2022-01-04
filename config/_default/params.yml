@@ -9,7 +9,8 @@ mainSections: [posts]
 description: Personal website of Tom M. Ragonneau
 
 # Edit url of the repository corresponding to the current directory
-repoEditURL: https://github.com/ragonneau/ragonneau.com/blob/main/
+# https://github.com/ragonneau/ragonneau.com/blob/main/
+repoEditURL:
 
 # Set the separator of the page title
 titleSeparator: "-"
@@ -19,7 +20,7 @@ titleSeparator: "-"
 dateFormat: 2006-01-02
 
 # Default color scheme of the website (auto, light, and dark)
-colorScheme: auto
+colorScheme: light
 
 # Site type
 siteType: Person
@@ -50,7 +51,11 @@ math:
 
 # Support comment systems (Disqus, Utterances, Valine, and Commento)
 comment:
-  handler:
+  handler: utterances
+  utterances:
+    repo: https://github.com/ragonneau/ragonneau.github.io
+    issue-term: pathname
+    theme: eureka
 
 # Support Mermaid to render diagrams
 diagram:
