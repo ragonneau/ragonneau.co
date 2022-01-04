@@ -2,12 +2,11 @@
 title: {{ replace .Name "-" " " | title }}
 description:
 toc: true
-authors:
+authors: ragonneau
 tags:
 categories:
 series:
 date: {{ .Date }}
-lastmod: {{ .Date }}
 featuredImage:
 draft: true
 ---

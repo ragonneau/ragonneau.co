@@ -11,12 +11,12 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:tom.ragonneau@connect.polyu.hk
-  - icon: whatsapp
-    iconPack: fab
-    url: https://wa.me/+85269957651
   - icon: github
     iconPack: fab
     url: https://github.com/ragonneau/
+  - icon: whatsapp
+    iconPack: fab
+    url: https://wa.me/+85269957651
 
 weight: 1
 widget:

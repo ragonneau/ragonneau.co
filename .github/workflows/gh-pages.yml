@@ -11,7 +11,7 @@ on:
 
 jobs:
   run:
-    name: Build and publish to GitHub Pages
+    name: Publish to GitHub Pages
     runs-on: ubuntu-latest
 
     steps:
