@@ -43,14 +43,14 @@ widget:
     attachment: 
 ---
 
-## Self introduction
+## Présentation personnelle
 
-I am a Ph.D. candidate in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by Dr. [Zaikun Zhang](https://zhangzk.net/) and Prof. [Xiaojun Chen](https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm), and supported by the [University Grants Committee](https://www.ugc.edu.hk/) (UGC) of Hong Kong, under the [Hong Kong Ph.D. Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/) (HKPFS, ref. PF18-24698).
+Je suis un candidat au doctorat au [Département de mathématiques appliquées](https://www.polyu.edu.hk/ama/) à [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), supervisé par Dr. [Zaikun Zhang](https://zhangzk.net/) et Prof. [Xiaojun Chen](https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm), et financé par la [Commission des bourses universitaires](https://www.ugc.edu.hk/) (UGC) de Hong Kong, sous le programme [HKPFS](https://cerg1.ugc.edu.hk/hkpfs/) (ref. PF18-24698).
 
-## Research overview
+## Domaine de recherche
 
-My research interests include [mathematical optimization](https://en.wikipedia.org/wiki/mathematical_optimization) and its applications, especially methods based on inaccurate information and methods dedicated to [derivative-free optimization](https://en.wikipedia.org/wiki/Derivative-free_optimization).
+Mes intérêts de recherche se concentrent sur l'[optimisation](https://en.wikipedia.org/wiki/mathematical_optimization) et ses applications, en particulier sur les méthodes basées sur des informations inexactes et les méthodes dédiées à l'[optimisation sans dérivée](https://en.wikipedia.org/wiki/Derivative-free_optimization).
 
-## Selected publications
+## Quelques publications
 
 [1] R. Benshila, G. Thoumyre, M. Al Najar, G. Abessolo Ondoa, R. Almar, E. Bergsma, G. Hugonnard, L. Labracherie, B. Lavie, T. M. Ragonneau, S. Ehouarn, B. Vieublé, and D. Wilson (2020). A deep learning approach for estimation of the nearshore bathymetry. [*J. Coast. Res.*](https://meridian.allenpress.com/jcr), 95(sp1), 1011&ndash;1015.

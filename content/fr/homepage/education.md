@@ -2,34 +2,34 @@
 title: Education
 draft: false
 experiences:
-  - title: Ph.D. student in computational mathematics
+  - title: Étudiant de doctorat en mathématiques appliquées
     organization:
       name: The Hong Kong Polytechnic University
       url: https://www.polyu.edu.hk/ama/
-    dates: 2019&ndash;Present
-    location: Hong Kong, China
+    dates: 2019&ndash;Présent
+    location: Hong Kong, Chine
     writeup: >
-      - Supervised by Dr. [Zaikun Zhang](https://zhangzk.net/) and co-supervised by Prof. [Xiaojun Chen](https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm).
+      - Supervisé par Dr. [Zaikun Zhang](https://zhangzk.net/) et co-supervisé by Prof. [Xiaojun Chen](https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm).
     
-      - Support is provided by the [University Grants Committee](https://www.ugc.edu.hk/) (RGC) of Hong Kong, under the [Hong Kong Ph.D. Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/) (HKPFS, ref. PF18-24698).
+      - Financé par la [Commission des bourses universitaires](https://www.ugc.edu.hk/) (UGC) de Hong Kong sous le programme [HKPFS](https://cerg1.ugc.edu.hk/hkpfs/) (ref. PF18-24698).
 
-  - title: M.Sc. in scientific computing
+  - title: M.Sc. calcul scientifique
     organization:
       name: Toulouse INP, ENSEEIHT
-      url: http://www.enseeiht.fr/en/
+      url: http://www.enseeiht.fr/
     dates: 2018&ndash;2019
     location: Toulouse, France
     writeup: >
-      - Graduated in [Performance in Software, Media and Scientific Computing](http://ubee.enseeiht.fr/dokuwiki/doku.php?id=public:res-ens:psmsc).
+      - Diplômé en [Performance in Software, Media and Scientific Computing](http://ubee.enseeiht.fr/dokuwiki/doku.php?id=public:res-ens:psmsc).
 
-  - title: M.Eng. in computer science and applied mathematics
+  - title: M.Eng. informatique et mathématiques appliquées
     organization:
       name: Toulouse INP, ENSEEIHT
-      url: http://www.enseeiht.fr/en/
+      url: http://www.enseeiht.fr/
     dates: 2016&ndash;2019
     location: Toulouse, France
     writeup: >
-      - Graduated in High Performance Computing and Big Data.
+      - Diplômé en Calcul Haute Performance et Big Data.
 
 weight: 2
 widget:

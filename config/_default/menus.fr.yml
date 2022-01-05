@@ -7,7 +7,7 @@ main:
     url: '#about'
     weight: 1
   - name: CV
-    url: /documents/cv_fr.pdf
+    url: /documents/cv.pdf
     weight: 2
   - name: Articles
     url: /posts/
