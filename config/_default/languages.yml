@@ -6,3 +6,8 @@ en:
   languageCode: en
   languageName: English
   contentDir: content/en
+
+fr:
+  languageCode: fr
+  languageName: Français
+  contentDir: content/fr

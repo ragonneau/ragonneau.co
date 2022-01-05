@@ -1,0 +1,14 @@
+# config/_default/menu.fr.yml
+# Configuration file for Hugo
+# See https://gohugo.io/getting-started/configuration/ for details
+
+main:
+  - name: À propos
+    url: '#about'
+    weight: 1
+  - name: CV
+    url: /documents/cv_fr.pdf
+    weight: 2
+  - name: Articles
+    url: /posts/
+    weight: 3
