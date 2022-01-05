@@ -6,6 +6,9 @@ main:
   - name: About
     url: '#about'
     weight: 1
+  - name: Resume
+    url: /documents/cv_en.pdf
+    weight: 2
   - name: Posts
     url: /posts/
-    weight: 2
+    weight: 3

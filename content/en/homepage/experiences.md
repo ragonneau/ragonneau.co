@@ -9,7 +9,7 @@ experiences:
     dates: 2020&ndash;2021
     location: Hong Kong, China
     writeup: >
-      Revision Tutorial Session (RTS) for
+      Revision Tutorial Sessions (RTS) for
 
       - [AMA1110](https://www.eie.polyu.edu.hk/prog/bsc_4-year/20142015/syllabus/AMA1110.pdf) Basic Mathematics I &ndash; Calculus and Probability & Statistics.
     
