@@ -9,11 +9,11 @@ experiences:
     dates: 2020年&ndash;2021年
     location: 香港，中國
     writeup: >
-      Revision Tutorial Sessions (RTS) for
+      數學及科學補習班：
 
-      - [AMA1110](https://www.eie.polyu.edu.hk/prog/bsc_4-year/20142015/syllabus/AMA1110.pdf) Basic Mathematics I &ndash; Calculus and Probability & Statistics.
+      - [AMA1110](https://www.eie.polyu.edu.hk/prog/bsc_4-year/20142015/syllabus/AMA1110.pdf) 基礎數學I &ndash; 微積分及概率和統計。
     
-      - [AMA1120](https://www.eie.polyu.edu.hk/prog/bsc_4-year/20142015/syllabus/AMA1120.pdf) Basic Mathematics II &ndash; Calculus and Linear Algebra.
+      - [AMA1120](https://www.eie.polyu.edu.hk/prog/bsc_4-year/20142015/syllabus/AMA1120.pdf) 基礎數學II &ndash; 微積分及線性代數。
 
 weight: 3
 widget:

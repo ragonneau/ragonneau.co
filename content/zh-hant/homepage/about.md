@@ -3,7 +3,7 @@ title: Tom M. Ragonneau
 draft: false
 role: 博士學生
 avatar: https://picsum.photos/200/200
-bio: Actively developing software for derivative-free optimization.
+bio: 我正在開發無衍生物優化軟件。
 organization:
   name: 香港理工大學
   url: http://www.polyu.hk/ama/people/detail/1657/
@@ -45,12 +45,12 @@ widget:
 
 ## 自我介紹
 
-I am a Ph.D. candidate in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by Dr. [Zaikun Zhang](https://zhangzk.net/) and Prof. [Xiaojun Chen](https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm), and supported by the [University Grants Committee](https://www.ugc.edu.hk/) (UGC) of Hong Kong, under the [Hong Kong Ph.D. Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/) (HKPFS, ref. PF18-24698).
+我是[香港理工大學](https://www.polyu.edu.hk/)[應用數學](https://www.polyu.edu.hk/ama/)系博士學生，[張在坤](https://zhangzk.net/)博士及[陳小君](https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm)教授監督，[大學教育資助委員會](https://www.ugc.edu.hk/eng/ugc/index.html)（[HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html)）贊助。
 
-## Research overview
+## 研究概述
 
-My research interests include [mathematical optimization](https://en.wikipedia.org/wiki/mathematical_optimization) and its applications, especially methods based on inaccurate information and methods dedicated to [derivative-free optimization](https://en.wikipedia.org/wiki/Derivative-free_optimization).
+我對[數學優化](https://en.wikipedia.org/wiki/mathematical_optimization)及其應用感興趣，尤其是致力於[無導數優化](https://en.wikipedia.org/wiki/Derivative-free_optimization)的方法。
 
-## Selected publications
+## 部分出版物
 
 [1] R. Benshila, G. Thoumyre, M. Al Najar, G. Abessolo Ondoa, R. Almar, E. Bergsma, G. Hugonnard, L. Labracherie, B. Lavie, T. M. Ragonneau, S. Ehouarn, B. Vieublé, and D. Wilson (2020). A deep learning approach for estimation of the nearshore bathymetry. [*J. Coast. Res.*](https://meridian.allenpress.com/jcr), 95(sp1), 1011&ndash;1015.

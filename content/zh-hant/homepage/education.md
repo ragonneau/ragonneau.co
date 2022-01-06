@@ -1,35 +1,35 @@
 ---
-title: 教育
+title: 學歷
 draft: false
 experiences:
-  - title: 博士應用數學學生
+  - title: 應用數學博士學生
     organization:
       name: 香港理工大學
       url: https://www.polyu.edu.hk/ama/
     dates: 2019年&ndash;現時
     location: 香港，中國
     writeup: >
-      - Supervised by Dr. [Zaikun Zhang](https://zhangzk.net/) and co-supervised by Prof. [Xiaojun Chen](https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm).
+      - [張在坤](https://zhangzk.net/)博士及[陳小君](https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm)教授監督。
     
-      - Support is provided by the [University Grants Committee](https://www.ugc.edu.hk/) (RGC) of Hong Kong, under the [Hong Kong Ph.D. Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/) (HKPFS, ref. PF18-24698).
+      - [大學教育資助委員會](https://www.ugc.edu.hk/)（[HKPFS](https://cerg1.ugc.edu.hk/hkpfs/), ref. PF18-24698）贊助。
 
-  - title: M.Sc. in scientific computing
+  - title: 科學計算碩士
     organization:
       name: Toulouse INP，ENSEEIHT
       url: http://www.enseeiht.fr/en/
     dates: 2018年&ndash;2019年
     location: 圖盧茲，法國
     writeup: >
-      - Graduated in [Performance in Software, Media and Scientific Computing](http://ubee.enseeiht.fr/dokuwiki/doku.php?id=public:res-ens:psmsc).
+      - 於[Performance in Software, Media and Scientific Computing](http://ubee.enseeiht.fr/dokuwiki/doku.php?id=public:res-ens:psmsc)畢業。
 
-  - title: M.Eng. in computer science and applied mathematics
+  - title: 計算機科學及應用數學工程碩士
     organization:
       name: Toulouse INP，ENSEEIHT
       url: http://www.enseeiht.fr/en/
     dates: 2016年&ndash;2019年
     location: 圖盧茲，法國
     writeup: >
-      - Graduated in High Performance Computing and Big Data.
+      - 於高性能計算及大數據畢業。
 
 weight: 2
 widget:

@@ -1,11 +1,11 @@
 ---
 title: Tom M. Ragonneau
 draft: false
-role: Candidat au doctorat
+role: 博士學生
 avatar: https://picsum.photos/200/200
-bio: Développement actif de logiciels d'optimisation sans dérivée.
+bio: 我正在開發無衍生物優化軟件。
 organization:
-  name: The Hong Kong Polytechnic University
+  name: 香港理工大學
   url: http://www.polyu.hk/ama/people/detail/1657/
 social:
   - icon: envelope
