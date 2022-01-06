@@ -1,0 +1,14 @@
+# config/_default/menu.zh-hant.yml
+# Configuration file for Hugo
+# See https://gohugo.io/getting-started/configuration/ for details
+
+main:
+  - name: About
+    url: '#about'
+    weight: 1
+  - name: 履歷表
+    url: /documents/cv.pdf
+    weight: 2
+  - name: 博文
+    url: /posts/
+    weight: 3

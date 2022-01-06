@@ -11,3 +11,8 @@ fr:
   languageCode: fr
   languageName: Français
   contentDir: content/fr
+
+zh-hant:
+  languageCode: zh-hant
+  languageName: 繁體中文
+  contentDir: content/zh-hant
