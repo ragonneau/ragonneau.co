@@ -2,7 +2,7 @@
 title: 工作經驗
 draft: false
 experiences:
-  - title: Teaching assistantship
+  - title: 教學助理
     organization:
       name: 香港理工大學
       url: https://www.polyu.edu.hk/ama/

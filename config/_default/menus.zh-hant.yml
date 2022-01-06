@@ -3,12 +3,12 @@
 # See https://gohugo.io/getting-started/configuration/ for details
 
 main:
-  - name: About
+  - name: 關於
     url: '#about'
     weight: 1
   - name: 履歷表
     url: /documents/cv.pdf
     weight: 2
-  - name: 博文
+  - name: 貼文
     url: /posts/
     weight: 3

@@ -6,7 +6,7 @@ experiences:
     organization:
       name: 香港理工大學
       url: https://www.polyu.edu.hk/ama/
-    dates: 2019年&ndash;現況
+    dates: 2019年&ndash;現時
     location: 香港，中國
     writeup: >
       - Supervised by Dr. [Zaikun Zhang](https://zhangzk.net/) and co-supervised by Prof. [Xiaojun Chen](https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm).

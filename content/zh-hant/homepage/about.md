@@ -43,7 +43,7 @@ widget:
     attachment: 
 ---
 
-## Self introduction
+## 自我介紹
 
 I am a Ph.D. candidate in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by Dr. [Zaikun Zhang](https://zhangzk.net/) and Prof. [Xiaojun Chen](https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm), and supported by the [University Grants Committee](https://www.ugc.edu.hk/) (UGC) of Hong Kong, under the [Hong Kong Ph.D. Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/) (HKPFS, ref. PF18-24698).
 
