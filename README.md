@@ -1,6 +1,7 @@
 # Personal website of Tom M. Ragonneau
 
 [![Publish](https://github.com/ragonneau/ragonneau.com/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/ragonneau/ragonneau.com/actions/workflows/gh-pages.yml)
+[![License](https://img.shields.io/badge/License-BSD-blue)](https://github.com/ragonneau/ragonneau.com/blob/main/LICENSE)
 
 ## Getting started
 
@@ -14,7 +15,7 @@ git submodule update --init --recursive
 The development web server can be started with:
 
 ```bash
-hugo server
+hugo server --disableFastRender
 ```
 
 The static website can be build with:
@@ -22,7 +23,3 @@ The static website can be build with:
 ```bash
 hugo --gc --minify
 ```
-
-## License
-
-Distributed under the BSD-3-Clause License. See `LICENSE` for more information.

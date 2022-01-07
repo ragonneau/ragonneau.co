@@ -7,8 +7,8 @@ main:
     url: '#about'
     weight: 1
   - name: CV
-    url: /documents/cv.pdf
+    url: documents/cv.pdf
     weight: 2
   - name: Articles
-    url: /posts/
+    url: posts/
     weight: 3
