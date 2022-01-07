@@ -9,8 +9,7 @@ mainSections: [posts]
 description: Personal website of Tom M. Ragonneau
 
 # Edit url of the repository corresponding to the current directory
-# https://github.com/ragonneau/ragonneau.com/blob/main/
-repoEditURL:
+repoEditURL: https://github.com/ragonneau/ragonneau.com/blob/main/
 
 # Set the separator of the page title
 titleSeparator: "-"
@@ -26,7 +25,7 @@ colorScheme: light
 siteType: Person
 
 # Site icon
-icon:
+icon: images/icon.png
 
 # Publisher name
 publisherName: Tom M. Ragonneau

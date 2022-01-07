@@ -1,13 +1,12 @@
 ---
 title: Tom M. Ragonneau
+draft: false
 role: Ph.D. candidate
+avatar: images/ragonneau.png
 bio: Actively developing software for derivative-free optimization.
-avatar: https://picsum.photos/200/200
-
 organization:
   name: The Hong Kong Polytechnic University
   url: http://www.polyu.hk/ama/people/detail/1657/
-
 social:
   - icon: envelope
     iconPack: fas

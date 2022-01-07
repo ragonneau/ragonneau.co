@@ -2,7 +2,7 @@
 title: Tom M. Ragonneau
 draft: false
 role: 博士學生
-avatar: https://picsum.photos/200/200
+avatar: images/ragonneau.png
 bio: 我正在開發無衍生物優化軟件。
 organization:
   name: 香港理工大學

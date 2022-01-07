@@ -31,7 +31,7 @@ summaryLength: 75
 defaultContentLanguage: en
 
 # Whether to include Chinese, Japanese, and Korean content
-hasCJKLanguage: false
+hasCJKLanguage: true
 
 # Whether the default language is under the sub-link
 defaultContentLanguageInSubdir: true
