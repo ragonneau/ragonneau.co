@@ -65,7 +65,7 @@ We are now ready to prove the Kantorovich inequality.
 We let $x \in \mathbb{R}^n$ be any vector of unit norm.
 Since $A$ is symmetric positive definite, it admits an [eigendecomposition](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix) $A = Q \Lambda Q^{\mathsf{T}}$ with $Q \in \mathbb{R}^{n \times n}$ an orthogonal matrix and $\Lambda = \operatorname{diag} \\{ \lambda_i \\}_{i = 1, 2, \dots, n}$.
 We then have
-$$x^{\ast} A x = \sum\_{i = 1}^n \lambda_i v_i^2 \quad \text{and} \quad x^{\ast} A^{-1} x = \sum\_{i = 1}^n \lambda_i^{-1} v_i^2,$$
+$$x^{\mathsf{T}} A x = \sum\_{i = 1}^n \lambda_i v_i^2 \quad \text{and} \quad x^{\mathsf{T}} A^{-1} x = \sum\_{i = 1}^n \lambda_i^{-1} v_i^2,$$
 where $v_i$ denotes the $i$th component of $Q^{\mathsf{T}} x$.
 Let $X$ the any random variable that takes the value $\lambda_i$ with probability $v_i^2$ for $i \in \\{ 1, 2, \dots, n \\}$.
 Since $X$ clearly takes its values in $[\lambda_1, \lambda_n]$, according to Lemma 3, we have
