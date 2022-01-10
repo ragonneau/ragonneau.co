@@ -15,6 +15,7 @@ Let $A \in \mathbb{R}^{n \times n}$ be a given symmetric positive definite matri
 The Kantorovich inequality states that for all vector $x \in \mathbb{R}^n$ of unit norm, we have
 $$ \langle x, A x \rangle \langle x, A^{-1} x \rangle \le \frac{(\lambda_1 + \lambda_n)^2}{4 \lambda_1 \lambda_n}.$$
 Such an inequality is widely used in convergence analysis (e.g., the convergence rate of the [steepest descent method](https://en.wikipedia.org/wiki/Gradient_descent) can be derived from the Kantorovich inequality).
+
 ## A proof based on probability theory
 
 We first state three lemmas on which we will base our proof.
@@ -24,7 +25,7 @@ We first state three lemmas on which we will base our proof.
 > Then
 > $$\mathbb{E}[X] \mathbb{E}[Y] \le \mathbb{E}[XY] + \sqrt{\operatorname{Var}[X] \operatorname{Var}[Y]}.$$
 
-*Proof.* The [Cauchy-Schwarz inequality](https://en.wikipedia.org/wiki/Cauchy-Schwarz_inequality) provides
+*Proof.* The Cauchy-Schwarz inequality provides
 <div>
     \[\begin{aligned}
         \operatorname{Var}[X] \operatorname{Var}[Y]
@@ -63,7 +64,7 @@ $$\operatorname{Var}[X] \le \frac{\mathbb{E}[(X - \alpha - (X - \beta))^2]}{4} =
 
 We are now ready to prove the Kantorovich inequality.
 We let $x \in \mathbb{R}^n$ be any vector of unit norm.
-Since $A$ is symmetric positive definite, it admits an [eigendecomposition](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix) $A = Q \Lambda Q^{\mathsf{T}}$ with $Q \in \mathbb{R}^{n \times n}$ an orthogonal matrix and $\Lambda = \operatorname{diag} \\{ \lambda_i \\}_{i = 1, 2, \dots, n}$.
+Since $A$ is symmetric positive definite, it admits an eigendecomposition $A = Q \Lambda Q^{\mathsf{T}}$ with $Q \in \mathbb{R}^{n \times n}$ an orthogonal matrix and $\Lambda = \operatorname{diag} \\{ \lambda_i \\}_{i = 1, 2, \dots, n}$.
 We then have
 $$\langle x, A x \rangle = \sum\_{i = 1}^n \lambda_i v_i^2 \quad \text{and} \quad \langle x, A^{-1} x \rangle = \sum\_{i = 1}^n \lambda_i^{-1} v_i^2,$$
 where $v_i$ denotes the $i$th component of $Q^{\mathsf{T}} x$.
@@ -71,3 +72,20 @@ Let $X$ the any random variable that takes the value $\lambda_i$ with probabilit
 Since $X$ clearly takes its values in $[\lambda_1, \lambda_n]$, according to Lemma 3, we have
 $$\langle x, A x \rangle \langle x, A^{-1} x \rangle = \mathbb{E}[X] \mathbb{E}[X^{-1}] \le \frac{(\lambda_1 + \lambda_n)^2}{4 \lambda_1 \lambda_n},$$
 which concludes our proof of the Kantorovich inequality based on probability theory.
+
+## A direct proof based on optimization theory
+
+We let $x \in \mathbb{R}^n$ be any vector of unit norm and $\varphi$ be the univariate function defined on $(0, \infty)$ by $\varphi(t) = t \langle x, A x \rangle + t^{-1} \langle x, A^{-1} x \rangle$.
+The minimum of $\varphi$ is reached at $t = \sqrt{\langle x, A^{-1} x \rangle \langle x, A x \rangle^{-1}}$, providing
+$$\sqrt{\langle x, A x \rangle \langle x, A^{-1} x \rangle} \le \frac{1}{2} \langle x, (t A + t^{-1} A^{-1}) x \rangle.$$
+According to the Courant-Fischer theorem, we then have
+<div>
+    \[\begin{aligned}
+        \sqrt{\langle x, A x \rangle \langle x, A^{-1} x \rangle}
+            & \le \frac{1}{2} \max_{i = 1, 2, \dots, n} (t \lambda_i + t^{-1} \lambda_i^{-1}) \\
+            & = \frac{1}{2} \max \{  t \lambda_1 + t^{-1} \lambda_1^{-1}, t \lambda_n + t^{-1} \lambda_n^{-1} \}.
+    \end{aligned}\]
+</div>
+The evaluation of the above right-hand side at $t = 1 / \sqrt{\lambda_1 \lambda_n}$ provides
+$$ \sqrt{\langle x, A x \rangle \langle x, A^{-1} x \rangle} \le \frac{\lambda_1 + \lambda_n}{2 \sqrt{\lambda_1 \lambda_n}},$$
+that is, the Kantorovich inequality.
