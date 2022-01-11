@@ -2,7 +2,7 @@
 # GitHub Actions configuration file for publishing hugo site
 # See https://github.com/chabad360/hugo-gh-pages for details
 
-name: Publish
+name: publish
 
 on:
   push:
