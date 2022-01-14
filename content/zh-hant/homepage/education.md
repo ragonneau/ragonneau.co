@@ -6,7 +6,7 @@ experiences:
     organization:
       name: 香港理工大學
       url: https://www.polyu.edu.hk/ama/
-    dates: 2019年&ndash;現時
+    dates: 2019年&ndash;至今
     location: 香港，中國
     writeup: >
       - [張在坤](https://zhangzk.net/)博士及[陳小君](https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm)教授監督。
@@ -29,7 +29,7 @@ experiences:
     dates: 2016年&ndash;2019年
     location: 圖盧茲，法國
     writeup: >
-      - 於高性能計算及大數據畢業。
+      - 於高性能計算及大數據專業畢業。
 
 weight: 2
 widget:

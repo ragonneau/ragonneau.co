@@ -9,7 +9,7 @@ experiences:
     dates: 2020年&ndash;2021年
     location: 香港，中國
     writeup: >
-      數學及科學補習班：
+      數學及科學習題課：
 
       - [AMA1110](https://www.eie.polyu.edu.hk/prog/bsc_4-year/20142015/syllabus/AMA1110.pdf) 基礎數學I &ndash; 微積分及概率和統計。
     

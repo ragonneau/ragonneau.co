@@ -3,7 +3,7 @@ title: Tom M. Ragonneau
 draft: false
 role: 博士學生
 avatar: images/avatar.png
-bio: 我正在開發無衍生物優化軟件。
+bio: 我正在開發無導數優化軟件。
 organization:
   name: 香港理工大學
   url: http://www.polyu.hk/ama/people/detail/1657/
@@ -45,7 +45,7 @@ widget:
 
 ## 自我介紹
 
-我是[香港理工大學](https://www.polyu.edu.hk/)[應用數學](https://www.polyu.edu.hk/ama/)系博士學生，[張在坤](https://zhangzk.net/)博士及[陳小君](https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm)教授監督，[大學教育資助委員會](https://www.ugc.edu.hk/eng/ugc/index.html)（[HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html)）贊助。
+我是[香港理工大學](https://www.polyu.edu.hk/)[應用數學](https://www.polyu.edu.hk/ama/)系博士學生，我的導師為[陳小君](https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm)教授及[張在坤](https://zhangzk.net/)博士，[大學教育資助委員會](https://www.ugc.edu.hk/eng/ugc/index.html)（[HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html)）資助。
 
 ## 研究概述
 
