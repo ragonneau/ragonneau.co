@@ -9,10 +9,10 @@ mainSections: [posts]
 description: Personal website of Tom M. Ragonneau
 
 # Edit url of the repository corresponding to the current directory
-repoEditURL: https://github.com/ragonneau/ragonneau.com/blob/main/
+repoEditURL: https://github.com/ragonneau/ragonneau.co/blob/main/
 
 # Set the separator of the page title
-titleSeparator: "-"
+titleSeparator:
 
 # Format of the dates displayed on the website
 # See https://gohugo.io/functions/format/#gos-layout-string
