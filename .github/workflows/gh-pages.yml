@@ -24,5 +24,6 @@ jobs:
         uses: chabad360/hugo-gh-pages@v2
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
+          cname: ragonneau.co
           branch: main
           repo: ragonneau/ragonneau.github.io

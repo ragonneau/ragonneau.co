@@ -3,7 +3,7 @@
 # See https://gohugo.io/getting-started/configuration/ for details
 
 # Root domain name of the site
-baseURL: /
+baseURL: https://www.ragonneau.co/
 
 # Site title
 title: Tom M. Ragonneau
