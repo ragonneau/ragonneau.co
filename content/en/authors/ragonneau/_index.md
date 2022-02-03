@@ -14,6 +14,9 @@ social:
   - icon: github
     iconPack: fab
     url: https://github.com/ragonneau/
+  - icon: linkedin
+    iconPack: fab
+    url: https://www.linkedin.com/in/tom-m-ragonneau-11958a12b
   - icon: whatsapp
     iconPack: fab
     url: https://wa.me/+85269957651

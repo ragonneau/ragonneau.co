@@ -1,23 +1,23 @@
 ---
-title: 工作經驗
+title: Experience
 draft: false
 experiences:
-  - title: 教學助理
+  - title: Teaching assistantship
     organization:
-      name: 香港理工大學
+      name: The Hong Kong Polytechnic University
       url: https://www.polyu.edu.hk/ama/
-    dates: 2020年&ndash;2021年
-    location: 香港，中國
+    dates: 2020&ndash;2021
+    location: Hong Kong, China
     writeup: >
-      數學及科學習題課：
+      Revision Tutorial Sessions (RTS) for
 
-      - [AMA1110](https://www.eie.polyu.edu.hk/prog/bsc_4-year/20142015/syllabus/AMA1110.pdf) 基礎數學I &ndash; 微積分及概率和統計。
+      - [AMA1110](https://www.eie.polyu.edu.hk/prog/bsc_4-year/20142015/syllabus/AMA1110.pdf) Basic Mathematics I &ndash; Calculus and Probability & Statistics.
     
-      - [AMA1120](https://www.eie.polyu.edu.hk/prog/bsc_4-year/20142015/syllabus/AMA1120.pdf) 基礎數學II &ndash; 微積分及線性代數。
+      - [AMA1120](https://www.eie.polyu.edu.hk/prog/bsc_4-year/20142015/syllabus/AMA1120.pdf) Basic Mathematics II &ndash; Calculus and Linear Algebra.
 
 weight: 3
 widget:
-  handler: experiences
+  handler: experience
 
   # Options: sm, md, lg, and xl. Default is md.
   width: lg
