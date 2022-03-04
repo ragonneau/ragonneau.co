@@ -51,6 +51,11 @@ widget:
 
 我對[數學優化](https://en.wikipedia.org/wiki/mathematical_optimization)及其應用感興趣，尤其是致力於[無導數優化](https://en.wikipedia.org/wiki/Derivative-free_optimization)的方法。
 
+## 近期項目
+
+- 在修讀博士學位的開始，我發展了[PDFO](https://www.pdfo.net/) (Powell's Derivative-Free Optimization solvers)。它是一個提供給[MATLAB](https://www.mathworks.com/)及[Python](https://www.python.org/)的軟件，用於在已故的M. J. D. Powell教授的無導數優化求解器上 (UOBYQA、NEWUOA、BOBYQA、LINCOA、COBYLA)。這程式已和[張在坤](https://zhangzk.net/)博士一起完成。
+- 近來完成的作品是[COBYQA](https://cobyqa.readthedocs.io/)。它是一種無導數優化的方法利用用[Python](https://www.python.org/)軟件創造的，計劃將來利用[Fortran](https://fortran-lang.org/)軟件來取代[Python](https://www.python.org/)軟件來運行整個[COBYQA](https://cobyqa.readthedocs.io/)程式。
+
 ## 部分出版物
 
 [1] R. Benshila, G. Thoumyre, M. Al Najar, G. Abessolo Ondoa, R. Almar, E. Bergsma, G. Hugonnard, L. Labracherie, B. Lavie, T. M. Ragonneau, S. Ehouarn, B. Vieublé, and D. Wilson (2020). A deep learning approach for estimation of the nearshore bathymetry. [*J. Coast. Res.*](https://meridian.allenpress.com/jcr), 95(sp1), 1011&ndash;1015.

@@ -53,8 +53,8 @@ My research interests include [mathematical optimization](https://en.wikipedia.o
 
 ## Recent projects
 
-- During the early stage of my Ph.D., developed [PDFO](https://www.pdfo.net/) (Powell's Derivative-Free Optimization solvers), a cross-platform package providing MATLAB and Python interfaces for using late Professor M. J. D. Powell's derivative-free optimization solvers, including UOBYQA, NEWUOA, BOBYQA, LINCOA, and COBYLA, in a joint work with [Zaikun Zhang](https://www.zhangzk.net/).
-- My most recent work is [COBYQA](https://cobyqa.readthedocs.io/), a derivative-free derivative-free trust-region SQP optimization solver for constrained optimization using quadratic approximations. It is implemented in Python, but I plan to develop a Fortran version of the software in the future.
+- During the early stage of my Ph.D., I developed [PDFO](https://www.pdfo.net/) (Powell's Derivative-Free Optimization solvers), a cross-platform package providing [MATLAB](https://www.mathworks.com/) and [Python](https://www.python.org/) interfaces for using late Professor M. J. D. Powell's derivative-free optimization solvers, including UOBYQA, NEWUOA, BOBYQA, LINCOA, and COBYLA, in a joint work with [Zaikun Zhang](https://www.zhangzk.net/).
+- My most recent work is [COBYQA](https://cobyqa.readthedocs.io/), a derivative-free derivative-free trust-region SQP optimization solver for constrained optimization using quadratic approximations. It is implemented in [Python](https://www.python.org/), but I plan to develop a [Fortran](https://fortran-lang.org/) version of the software in the future.
 
 ## Selected publications
 

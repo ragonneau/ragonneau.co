@@ -53,8 +53,8 @@ Mes intérêts de recherche se concentrent sur l'[optimisation](https://en.wikip
 
 ## Projets récents
 
-- Au début de mon doctorat, j'ai dévélopé [PDFO](https://www.pdfo.net/) (Powell's Derivative-Free Optimization solvers), une librairie multiplateforme MATLAB et Python fournissant des interfaces pour l'utilisation des solveurs sans dérivées de M. J. D. Powell, comprenant UOBYQA, NEWUOA, BOBYQA, LINCOA et COBYLA, avec [Zaikun Zhang](https://www.zhangzk.net/).
-- Mon travail le plus récent est [COBYQA](https://cobyqa.readthedocs.io/), un solveur d'optimisation sans dérivées pour résoudre des problèmes d'optimisation contraints, en utilisant des approximations quadratiques. Le solveur est implémenté en Python, mais je prévois de développer une version en Fortran à l'avenir.
+- Au début de mon doctorat, j'ai dévélopé [PDFO](https://www.pdfo.net/) (Powell's Derivative-Free Optimization solvers), une librairie multiplateforme [MATLAB](https://www.mathworks.com/) et [Python](https://www.python.org/) fournissant des interfaces pour l'utilisation des solveurs sans dérivées de M. J. D. Powell, comprenant UOBYQA, NEWUOA, BOBYQA, LINCOA et COBYLA, avec [Zaikun Zhang](https://www.zhangzk.net/).
+- Mon travail le plus récent est [COBYQA](https://cobyqa.readthedocs.io/), un solveur d'optimisation sans dérivées pour résoudre des problèmes d'optimisation contraints, en utilisant des approximations quadratiques. Le solveur est implémenté en [Python](https://www.python.org/), mais je prévois de développer une version en [Fortran](https://fortran-lang.org/) à l'avenir.
 
 ## Quelques publications
 
