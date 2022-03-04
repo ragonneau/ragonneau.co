@@ -51,6 +51,11 @@ Je suis un candidat au doctorat au [Département de mathématiques appliquées](
 
 Mes intérêts de recherche se concentrent sur l'[optimisation](https://en.wikipedia.org/wiki/mathematical_optimization) et ses applications, en particulier sur les méthodes basées sur des informations inexactes et les méthodes dédiées à l'[optimisation sans dérivée](https://en.wikipedia.org/wiki/Derivative-free_optimization).
 
+## Projets récents
+
+- Au début de mon doctorat, j'ai dévélopé [PDFO](https://www.pdfo.net/) (Powell's Derivative-Free Optimization solvers), une librairie multiplateforme MATLAB et Python fournissant des interfaces pour l'utilisation des solveurs sans dérivées de M. J. D. Powell, comprenant UOBYQA, NEWUOA, BOBYQA, LINCOA et COBYLA, avec [Zaikun Zhang](https://www.zhangzk.net/).
+- Mon travail le plus récent est [COBYQA](https://cobyqa.readthedocs.io/), un solveur d'optimisation sans dérivées pour résoudre des problèmes d'optimisation contraints, en utilisant des approximations quadratiques. Le solveur est implémenté en Python, mais je prévois de développer une version en Fortran à l'avenir.
+
 ## Quelques publications
 
 [1] R. Benshila, G. Thoumyre, M. Al Najar, G. Abessolo Ondoa, R. Almar, E. Bergsma, G. Hugonnard, L. Labracherie, B. Lavie, T. M. Ragonneau, S. Ehouarn, B. Vieublé, and D. Wilson (2020). A deep learning approach for estimation of the nearshore bathymetry. [*J. Coast. Res.*](https://meridian.allenpress.com/jcr), 95(sp1), 1011&ndash;1015.
